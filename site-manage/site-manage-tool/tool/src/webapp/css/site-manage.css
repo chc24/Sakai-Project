@@ -25,6 +25,9 @@ h4.toggleAnchor {
     -webkit-border-radius:5px;
    -moz-border-radius:5px; 
 }
+#archiveSiteType{
+    margin-bottom: .5em;
+}
 #siteTypeList p {
     border:none;
     padding:.1em 0;
